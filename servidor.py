@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#server
 import socket
 import os
 import sys
